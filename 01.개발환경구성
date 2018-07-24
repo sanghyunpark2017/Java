@@ -1,0 +1,38 @@
+
+http://addio3305.tistory.com/32?category=772645
+
+#버전
+IED : Eclipse 4.3 Kepler
+JDK : JAVA SE 7u60
+Tomcat : Tomcat 7.0
+Maven : Maven 3.2.2
+
+#############
+환경
+#############
+-Windows10 : 이클립스 윈도우버전
+-Centos7 : java, tomcat
+
+
+
+
+
+#############
+다운로드&설치
+#############
+
+
+http://www.eclipse.org/
+
+#java 
+#http://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+
+#####java
+
+시스템환경변수: 
+변수이름: JAVA_HOME
+변수값: C:\Program Files(x86)\Java\jdk1.8.0_154
+
+
+
